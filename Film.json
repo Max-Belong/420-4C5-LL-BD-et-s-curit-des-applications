@@ -1,20 +1,79 @@
 {
-  "Titre": "Les Minions",
-  "directeur": "Kyle Balda, Pierre Coffin",
-  "Auteur": "Brian Lynch,",
-  "Date": 2015,
-  "Vedette": [
+  "Films":[
     {
-      "Nom": "Sandra Bullock",
+    "Titre": "Les Minions",
+    "Directeur": "Kyle Balda, Pierre Coffin",
+    "Auteur": "Brian Lynch,",
+    "Description": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+    "Date": 2015,
+    "Budget": "$74 millions USD",
+    "Fin de semaine d'ouverture au USA": "$115,718,405 USD",
+    "Total USA": "$336,045,770",
+    "Total dans le monde": "$1,159 milliard USD",
+    "Vedette": [
+    {
+      "Nom": "Sandra Bullock, 57 ans",
       "Personnage": "Scarlet Overkill (voix)"
     },
     {
-      "Nom": "Jon Hamm",
+      "Nom": "Jon Hamm, 50 ans",
       "Personnage": "Herb Overkill  (voix)"
     },
     {
-      "Nom": "Michael Keaton",
+      "Nom": "Michael Keaton, 69 ans",
       "Personnage": "Walter Nelson (voix)"
     }
-  ]
+    ]
+    },
+    {
+    "Titre": "Fight Club",
+    "Directeur": "David Fincher",
+    "Auteur": "Chuck Palahniuk, Jim Uhls",    
+    "Description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "Date": 1999,
+    "Budget": "$63 millions USD
+    "Fin de semaine d'ouverture au USA": "$11 million USD",
+    "Total USA": "$37,030,102 USD",
+    "Total dans le monde": "$100,853,753 USD",
+    "Vedette": [
+    {
+      "Nom": "Edward Norton, 52 ans",
+      "Personnage": "The Narrator"
+    },
+    {
+      "Nom": "Brad Pitt, 57 ans",
+      "Personnage": "Tyler Durden"
+    },
+    {
+      "Nom": "Meat Loaf, 73 ans",
+      "Personnage": "Robert 'Bob' Paulsen"
+    }
+    ]
+    },
+    {
+    "Titre": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+    "Directeur": "Peter Jackson",
+    "Auteur": "J.R.R. Tolkien (Roman), Fran Walsh (Scenario), Philippa Boyens (Scenario),",    
+    "Description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "Date": 2001,
+    "Budget": "$90 millions USD",
+    "Fin de semaine d'ouverture au USA": "$47,211,490 USD",
+    "Total USA": "$313,364,114 USD",
+    "Total dans le monde": "$880,839,846 USD",
+    "Vedette": [
+    {
+      "Nom": "Elijah Wood, 40 ans",
+      "Personnage": "Frodon Sacquet"
+    },
+    {
+      "Nom": "Ian McKellen, 82 ans",
+      "Personnage": "Gandalf le Gris"
+    },
+    {
+      "Nom": "Viggo Mortensen, 62 ans",
+      "Personnage": "Aragorn"
+    }
+    ]
+    },
+]
 }
